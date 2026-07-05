@@ -1,117 +1,128 @@
 <div align="center">
-Hi, I'm Anurag Dudi 👋
-AI Engineer • Founder • Building KAIZEN
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:6366F1&height=240&section=header&text=Anurag%20Dudi&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20•%20Founder%20•%20Building%20KAIZEN&descAlignY=60"/>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=24B11CS111&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=900&center=true&vCenter=true&width=700&lines=AI+Engineer;Founder+of+KAIZEN;Building+Autonomous+AI+Systems;Full+Stack+Developer;Always+Learning"/>
-</p>
-<p align="center">
-<a href="https://anurag-dudi.lovable.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://github.com/24B11CS111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/anurag-dudi-118876329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:dudianurag007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/anuragdudi7?igsh=aGF5MXFodm1qYTUy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-> *Building intelligent software that helps people and businesses work smarter through AI.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1E1B4B,100:6366F1&height=220&section=header&text=Anurag%20Dudi&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Founder%20%7C%20Building%20KAIZEN&descAlignY=62&descSize=18"/>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anurag-dudi.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-dudi-118876329)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24B11CS111)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudianurag007@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anuragdudi7)
+
+<img src="https://komarev.com/ghpvc/?username=24B11CS111&label=Profile%20Views&color=6366F1&style=flat-square"/>
+
 </div>
+
+<br/>
+
+## About Me
+
+I'm **Anurag Dudi** — an AI Engineer and Founder based in Kakinada, Andhra Pradesh, India.
+
+I design and build software where artificial intelligence, automation, and modern engineering converge to solve real-world problems. My current focus is **KAIZEN**, an AI Operating System built around intelligent automation, accessibility, productivity, and autonomous agents.
+
+I'm equally hands-on across the stack — from AI systems and backend architecture to product design and go-to-market — and I care about shipping things that actually work.
+
+<br/>
+
+## What I'm Building Right Now
+
+| Focus Area | Description |
+|---|---|
+| 🤖 **KAIZEN AI Operating System** | Core platform for AI-driven automation and agents |
+| 📱 **KAIZEN Mobile AI** | Bringing accessibility and voice intelligence to mobile |
+| ⚡ **Autonomous AI Agents** | Task-executing agents for real workflows |
+| 🌐 **Full-Stack SaaS Products** | End-to-end platforms, from idea to deployment |
+| 🚀 **Business Automation Systems** | Automation infrastructure for growing businesses |
+
+<br/>
+
+## Ventures
+
+### 🤖 KAIZEN
+An AI Operating System engineered to make digital interaction smarter — combining AI agents, workflow automation, accessibility tooling, voice interaction, and contextual intelligence into one cohesive platform.
+
+**Focus areas:** AI Agents · Mobile AI · Accessibility Automation · Voice Intelligence · Productivity · Computer Vision
+
 ---
-🚀 About Me
-I'm Anurag Dudi, an AI Engineer and Founder from Kakinada, Andhra Pradesh, India.
-I enjoy building software where Artificial Intelligence, automation and modern engineering come together to solve real-world problems.
-My current mission is KAIZEN—an AI Operating System focused on intelligent automation, accessibility, productivity and AI agents.
+
+### 🚀 HRIX
+A growth and automation partner helping businesses scale through digital marketing, web development, lead generation, business analytics, branding, and automation.
+
+🔗 [hrixofficial.framer.website](https://hrixofficial.framer.website/)
+
 ---
-🔥 Currently Building
-🤖 KAIZEN AI Operating System
-📱 KAIZEN Mobile AI
-⚡ Autonomous AI Agents
-🌐 Full Stack SaaS Products
-🚀 Business Automation Platforms
----
-🌟 Startup Ecosystem
-🤖 KAIZEN
-An AI Operating System designed to make digital interactions smarter through AI agents, workflow automation, accessibility, voice interaction and contextual intelligence.
-Focus
-AI Agents
-Mobile AI
-Accessibility Automation
-Voice Intelligence
-Productivity
-Computer Vision
----
-🚀 HRIX
-Helping businesses grow through:
-Digital Marketing
-Website Development
-Lead Generation
-Business Analytics
-Branding
-Automation
-🌐 https://hrixofficial.framer.website/
----
-🎁 Aladdins Box
-A modern gifting brand offering personalized gifts and premium gifting experiences.
-🌐 https://aladdinsbox.in/
-📷 https://www.instagram.com/aladdinsbox_/
----
-💻 Featured Projects
-Project	Description
-Looprix	Customer re-engagement platform
-MockmateAI	AI interview preparation platform
-Ticki	Movie ticket booking application
-Ticki Bus	Bus reservation platform
-Routex	Smart transportation platform
-Repositories:
-https://github.com/24B11CS111/looprix
-https://github.com/24B11CS111/MockmateAI
-https://github.com/24B11CS111/Ticki
-https://github.com/24B11CS111/Ticki_bus
-https://github.com/24B11CS111/Routex
----
-🛠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,tailwind,firebase,supabase,docker,git,github,vscode,figma"/>
-</p>
-AI
-AI Agents
-Prompt Engineering
-Computer Vision
-Workflow Automation
-Large Language Models
----
-📊 GitHub Statistics
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=24B11CS111&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24B11CS111&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=24B11CS111&theme=github-dark&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=24B11CS111&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=24B11CS111&theme=github-dark&hide_border=true"/>
-</p>
----
-🎯 Goals
-Build KAIZEN into a complete AI Operating System.
-Create AI products that solve practical problems.
-Build impactful startups.
-Learn continuously and ship consistently.
----
-📬 Connect
-📧 Email: dudianurag007@gmail.com
-🌐 Portfolio: https://anurag-dudi.lovable.app
-💼 LinkedIn: https://www.linkedin.com/in/anurag-dudi-118876329
-💻 GitHub: https://github.com/24B11CS111
-📷 Instagram: https://www.instagram.com/anuragdudi7?igsh=aGF5MXFodm1qYTUy
----
+
+### 🎁 Aladdins Box
+A modern gifting brand delivering personalized, premium gifting experiences.
+
+🔗 [aladdinsbox.in](https://aladdinsbox.in/) · [Instagram](https://www.instagram.com/aladdinsbox_/)
+
+<br/>
+
+## Featured Projects
+
+| Project | Description | Repository |
+|---|---|---|
+| **Looprix** | Customer re-engagement platform | [View →](https://github.com/24B11CS111/looprix) |
+| **MockmateAI** | AI-powered interview preparation platform | [View →](https://github.com/24B11CS111/MockmateAI) |
+| **Ticki** | Movie ticket booking application | [View →](https://github.com/24B11CS111/Ticki) |
+| **Ticki Bus** | Bus reservation platform | [View →](https://github.com/24B11CS111/Ticki_bus) |
+| **Routex** | Smart transportation platform | [View →](https://github.com/24B11CS111/Routex) |
+
+<br/>
+
+## Tech Stack
+
 <div align="center">
-Thanks for visiting my profile ❤️
-"Great products aren't built by writing more code—they're built by solving meaningful problems."
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,tailwind,firebase,supabase,docker,git,github,vscode,figma"/>
+
+</div>
+
+<br/>
+
+**AI & Engineering Focus:** AI Agents · Prompt Engineering · Computer Vision · Workflow Automation · Large Language Models
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=24B11CS111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24B11CS111&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://streak-stats.demolab.com?user=24B11CS111&theme=github-dark&hide_border=true&background=0D1117"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=24B11CS111&theme=algolia&no-frame=true&row=1&column=6"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=24B11CS111&theme=github-dark&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<br/>
+
+## Roadmap
+
+- Build KAIZEN into a complete, production-grade AI Operating System
+- Ship AI products that solve genuinely practical problems
+- Grow HRIX and Aladdins Box into sustainable, scalable brands
+- Keep learning fast and shipping consistently
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+📧 **Email:** [dudianurag007@gmail.com](mailto:dudianurag007@gmail.com) &nbsp;•&nbsp;
+🌐 **Portfolio:** [anurag-dudi.lovable.app](https://anurag-dudi.lovable.app) &nbsp;•&nbsp;
+💼 **LinkedIn:** [Anurag Dudi](https://www.linkedin.com/in/anurag-dudi-118876329)
+
+<br/>
+
+*"Great products aren't built by writing more code — they're built by solving meaningful problems."*
+
 </div>
